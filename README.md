@@ -1,0 +1,3 @@
+```shell
+$ ruby test.rb
+```
