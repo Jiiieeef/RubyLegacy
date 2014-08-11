@@ -1,5 +1,7 @@
+require_relative '../view/a'
+
 module Leg
-  class B < A
+  class B < View::A
     def initialize 
       p "b"
     end

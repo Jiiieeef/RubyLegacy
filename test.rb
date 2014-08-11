@@ -1,9 +1,7 @@
-require "./a"
+require "./view/a"
 require "./leg/b"
 require "./leg/c"
 
-
-
-a = A.new
+a = View::A.new
 b = Leg::B.new
 c = Leg::C.new
